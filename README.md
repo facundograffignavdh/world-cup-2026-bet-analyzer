@@ -1,5 +1,6 @@
 # World Cup 2026 Analyzer
 #### Video Demo: https://youtu.be/UhRFJhXHXpY
+🌐 **Live app:** https://world-cup-2026-bet-analyzer.streamlit.app/
 #### Description:
 
 ## What is this project?
